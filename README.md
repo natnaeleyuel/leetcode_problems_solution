@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0498-diagonal-traverse) |
+## Hash Table
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
