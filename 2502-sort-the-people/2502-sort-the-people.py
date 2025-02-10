@@ -4,16 +4,26 @@ class Solution:
         for i in range(len(heights)):
             nameDict[heights[i]] = names[i]
         
-        for i in range(len(heights)):
-            isSorted = True
-            for j in range(1, len(heights)):
-                if heights[j] < heights[j-1]:
-                    heights[j], heights[j-1] = heights[j-1], heights[j]
-                    isSorted = False
+        # for i in range(len(heights)):    # bubble sort
+        #     isSorted = True
+        #     for j in range(1, len(heights)):
+        #         if heights[j] < heights[j-1]:
+        #             heights[j], heights[j-1] = heights[j-1], heights[j]
+        #             isSorted = False
 
-            if isSorted:
-                break
-        
+        #     if isSorted:
+        #         break
+
+        for i in range(len(heights)):
+            minNum = heights[i]
+            minInd = i
+            for j in range(i+1, len(heights)):
+                if minNum > heights[j]:
+                    minNum = heights[j]
+                    minInd = j
+                    
+            heights[i], heights[minInd] = heights[minInd], heights[i]
+                
         heights = heights[::-1]
         namesNew = [""]*len(names)
         for i in range(len(names)):
