@@ -14,15 +14,15 @@ class Solution:
         #     if isSorted:
         #         break
 
-        for i in range(len(heights)):
-            minNum = heights[i]
+        for i in range(len(heights)):     # selection sort
             minInd = i
             for j in range(i+1, len(heights)):
-                if minNum > heights[j]:
-                    minNum = heights[j]
+                if heights[minInd] > heights[j]:
                     minInd = j
-                    
+
             heights[i], heights[minInd] = heights[minInd], heights[i]
+
+        
                 
         heights = heights[::-1]
         namesNew = [""]*len(names)
