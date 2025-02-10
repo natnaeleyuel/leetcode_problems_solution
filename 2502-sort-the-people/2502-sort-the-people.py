@@ -16,13 +16,14 @@ class Solution:
 
         for i in range(len(heights)):     # selection sort
             minInd = i
+            isSwap = False
             for j in range(i+1, len(heights)):
                 if heights[minInd] > heights[j]:
                     minInd = j
-
-            heights[i], heights[minInd] = heights[minInd], heights[i]
-
-        
+                    isSwap = True
+            
+            if isSwap:
+                heights[i], heights[minInd] = heights[minInd], heights[i]
                 
         heights = heights[::-1]
         namesNew = [""]*len(names)
