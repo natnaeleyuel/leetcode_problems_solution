@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0498-diagonal-traverse) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2448-count-number-of-bad-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
