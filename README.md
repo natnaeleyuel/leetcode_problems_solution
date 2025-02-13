@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1009-pancake-sorting) |
+| [1046-max-consecutive-ones-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1961-maximum-ice-cream-bars) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
+| [1046-max-consecutive-ones-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Game Theory
 |  |
@@ -174,4 +176,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
