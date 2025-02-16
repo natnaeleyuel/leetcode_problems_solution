@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -223,6 +224,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
