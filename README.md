@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Design
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2448-count-number-of-bad-pairs) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## String
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2465-shifting-letters-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3195-separate-black-and-white-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3447-clear-digits) |
 ## Sorting
