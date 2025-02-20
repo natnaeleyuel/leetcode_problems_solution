@@ -6,14 +6,12 @@ class Solution:
     def removeElements(self, head: ListNode, val: int) -> ListNode:
         dummy = ListNode()
         dummy.next = head
-        
-        curr = dummy
-        count = 0
-        while curr.next:
-            if curr.next.val == val:
-                curr.next = curr.next.next
+        current = dummy
+        while current.next:
+            if current.next.val == val:
+                current.next = current.next.next
             else:
-                curr = curr.next
+                current = current.next
         
         return dummy.next
 
