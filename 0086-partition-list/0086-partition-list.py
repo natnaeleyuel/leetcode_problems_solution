@@ -4,25 +4,25 @@ class ListNode:
         self.next = next
 class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
-        lessnode = []
-        largenode = []
+        less_node_head = ListNode()
+        large_node_head = ListNode()
+
+        less_node_tail = less_node_head
+        large_node_tail = large_node_head
+
         current = head
         while current:
             if current.val < x:
-                lessnode.append(current)
+                less_node_tail.next = current
+                less_node_tail = less_node_tail.next
             else:
-                largenode.append(current)
+                large_node_tail.next = current
+                large_node_tail = large_node_tail.next
             current = current.next
-        
-        merged_list = lessnode + largenode
-        for n in range(len(merged_list)):
-            merged_list[n].next = None
-            if n < len(merged_list) - 1:
-                merged_list[n].next = merged_list[n+1]
-        if len(merged_list) > 0:
-            head = merged_list[0]
+        less_node_tail.next = large_node_head.next
+        large_node_tail.next = None
 
-        return head
+        return less_node_head.next
 
 
         
