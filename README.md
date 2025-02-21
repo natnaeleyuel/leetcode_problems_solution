@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2107-find-unique-binary-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0838-design-linked-list) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -330,4 +332,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
