@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0234-palindrome-linked-list) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
