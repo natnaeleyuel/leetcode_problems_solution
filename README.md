@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0274-h-index) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
