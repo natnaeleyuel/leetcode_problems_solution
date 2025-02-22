@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -335,10 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -347,5 +350,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
