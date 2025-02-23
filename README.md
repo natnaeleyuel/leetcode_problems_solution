@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0661-image-smoother) |
 | [0917-boats-to-save-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0917-boats-to-save-people) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1009-pancake-sorting](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1009-pancake-sorting) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
