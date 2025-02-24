@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1603-running-sum-of-1d-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0838-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3447-clear-digits) |
 ## Binary Search
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 ## Backtracking
 |  |
 | ------- |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
 | ------- |
