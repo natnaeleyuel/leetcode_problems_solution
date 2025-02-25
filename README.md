@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1009-pancake-sorting) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0234-palindrome-linked-list) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3447-clear-digits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
