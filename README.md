@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
