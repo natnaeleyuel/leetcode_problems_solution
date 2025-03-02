@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0454-4sum-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
