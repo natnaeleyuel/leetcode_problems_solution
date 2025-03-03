@@ -5,7 +5,7 @@ class Solution:
         a = nums[0]
         b = nums[1]
         c = nums[2]
-        if a + b > c and a + c > b and b + c > a:
+        if a + b > c:
             max_val = a + b + c
         
         left = 1
@@ -15,10 +15,10 @@ class Solution:
             b = nums[left + 1]
             c = nums[right]
 
-            if a + b > c and a + c > b and b + c > a:
+            if a + b > c:
                 max_val = max(max_val, a + b + c)
 
             left += 1
             right += 1
-            
+
         return max_val if max_val != -float('inf') else 0
