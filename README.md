@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2448-count-number-of-bad-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3055-maximum-odd-binary-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3055-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3055-maximum-odd-binary-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3447-clear-digits) |
 ## Sorting
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3055-maximum-odd-binary-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
