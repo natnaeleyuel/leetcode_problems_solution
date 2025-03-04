@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0189-rotate-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1170-shortest-common-supersequence) |
