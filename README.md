@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0498-diagonal-traverse) |
+| [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1184-car-pooling) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
+| [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1170-shortest-common-supersequence) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
+| [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1009-pancake-sorting) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
