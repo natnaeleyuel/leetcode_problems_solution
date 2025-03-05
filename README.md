@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## String
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
