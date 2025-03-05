@@ -6,6 +6,6 @@ class Solution:
             start = 1
             cal_sum = 1
             for i in range(1, n):
-                cal_sum = cal_sum + start + start + 2
+                cal_sum +=  2 + start * 2
                 start += 2
             return cal_sum
