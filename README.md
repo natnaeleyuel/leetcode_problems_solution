@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2089-maximum-matrix-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2737-row-with-maximum-ones](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3055-maximum-odd-binary-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
