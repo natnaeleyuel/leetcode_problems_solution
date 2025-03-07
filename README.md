@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0886-score-of-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1170-shortest-common-supersequence) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0886-score-of-parentheses) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
