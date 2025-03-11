@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
+| [0394-decode-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0680-valid-palindrome-ii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
