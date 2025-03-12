@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2737-row-with-maximum-ones) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## String
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Game Theory
 |  |
 | ------- |
