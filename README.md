@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
