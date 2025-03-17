@@ -7,14 +7,27 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
 
-        def depthfind(root):
-            if not root:
-                return 0
+        # def depthfind(root):
+        #     if not root:
+        #         return 0
             
-            left = depthfind(root.left)
-            right = depthfind(root.right)
-            return max(left, right) + 1
+        #     left = depthfind(root.left)
+        #     right = depthfind(root.right)
+        #     return max(left, right) + 1
         
-        return depthfind(root)
+        # return depthfind(root)
+        if not root:
+            return 0
+        deq = deque([root])
+        count = 0
+        while deq:
+            for i in range(len(deq)):
+                poped = deq.popleft()
+                if poped.left:
+                    deq.append(poped.left)
+                if poped.right:
+                    deq.append(poped.right)
+            count += 1
+        return count
 
 
