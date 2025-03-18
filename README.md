@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0797-rabbits-in-forest) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0496-next-greater-element-i) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0969-number-of-recent-calls) |
@@ -612,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0784-insert-into-a-binary-search-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
