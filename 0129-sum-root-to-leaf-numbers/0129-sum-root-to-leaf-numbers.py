@@ -7,10 +7,11 @@
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         deq = deque([[root, str(root.val)]])
+        print(deq)
         result = 0
         while deq:
             for i in range(len(deq)):
-                poped, val = deq.popleft()
+                poped, val = deq.pop()
                 if poped.left:
                     deq.append([poped.left, val + str(poped.left.val)])
                 if poped.right:
