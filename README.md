@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0093-restore-ip-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
