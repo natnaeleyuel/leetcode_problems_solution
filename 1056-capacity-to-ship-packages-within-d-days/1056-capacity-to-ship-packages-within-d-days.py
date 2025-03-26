@@ -12,16 +12,13 @@ class Solution:
                     tot = 0
                     count += 1
                 else:
-                    tot += w
-            
+                    tot += w        
             if tot:
-                count += 1
-            
+                count += 1         
             return count <= days
         
         left = max(weights)
         right = sum(weights)
-
         while left <= right:
             mid = (right + left) // 2 
             if shipweghts(mid):
