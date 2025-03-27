@@ -1,12 +1,14 @@
 
 class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
-        node = root
-        while node:
-            if node.val > val:
-                node = node.left
-            elif node.val < val:
-                node = node.right
-            else:
+        def recur(node, num):
+            if not node:
+                return None
+            elif node.val == val:
                 return node
-        return None
+            elif node.val > val:
+                return recur(node.left, num)
+            elif node.val < val:
+                return recur(node.right, num)
+        
+        return recur(root, val)
