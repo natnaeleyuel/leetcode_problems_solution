@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
