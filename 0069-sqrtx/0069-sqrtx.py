@@ -8,7 +8,7 @@ class Solution:
             if mid * mid <= x:
                 result = mid
                 left = mid + 1
-            elif mid * mid > x:
+            else:
                 right = mid - 1
         
         return result
