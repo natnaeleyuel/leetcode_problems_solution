@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1675-magnetic-force-between-two-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1720-crawler-log-folder](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1720-crawler-log-folder) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1961-maximum-ice-cream-bars) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1675-magnetic-force-between-two-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2665-minimum-time-to-repair-cars) |
