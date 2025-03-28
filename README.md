@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2665-minimum-time-to-repair-cars) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0661-image-smoother) |
 | [2089-maximum-matrix-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2737-row-with-maximum-ones](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1184-car-pooling) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3430-count-days-without-meetings) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -647,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -704,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
