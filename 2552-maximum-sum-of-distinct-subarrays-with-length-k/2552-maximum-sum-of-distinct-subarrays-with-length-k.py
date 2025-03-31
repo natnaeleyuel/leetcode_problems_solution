@@ -1,5 +1,5 @@
-class Solution(object):
-    def maximumSubarraySum(self, nums, k):
+class Solution:
+    def maximumSubarraySum(self, nums: List[int], k: int) -> int:
         n = len(nums)
         if n < k:
             return 0
