@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1720-crawler-log-folder](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1720-crawler-log-folder) |
+| [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 | [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
 ## Counting
 |  |
@@ -410,11 +412,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1285-balance-a-binary-search-tree) |
+| [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 | [1873-longest-nice-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1873-longest-nice-substring) |
 ## Merge Sort
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1675-magnetic-force-between-two-balls) |
+| [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2665-minimum-time-to-repair-cars) |
@@ -760,4 +765,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
