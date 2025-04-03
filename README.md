@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1184-car-pooling) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0475-heaters) |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
@@ -438,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -793,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
