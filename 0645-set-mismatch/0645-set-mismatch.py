@@ -11,7 +11,7 @@ class Solution:
                 if i != curr and len(result) == 0:
                     result.append(nums[i])
                 i += 1
-        print(nums)
+                
         for i in range(n):
             if i + 1 != nums[i]:
                 result.append(i+1)
