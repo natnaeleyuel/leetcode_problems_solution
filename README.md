@@ -783,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Monotonic Stack
 |  |
