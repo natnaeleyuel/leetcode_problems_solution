@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0661-image-smoother) |
+| [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [0792-binary-search](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0859-design-circular-deque) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
