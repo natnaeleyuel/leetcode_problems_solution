@@ -5,6 +5,7 @@ class Solution:
         visited = set()
         inbound = lambda x, y: x < n - 1 and x > 0 and y > 0 and y < m - 1
         direction = [(1, 0), (0, 1), (0, - 1), (-1, 0)]
+        
         def helper(row, col):
             found = 0
             for i in range(0, col):
@@ -42,7 +43,6 @@ class Solution:
 
         res = [True]
         def dfs(row, col):
-            nonlocal res
             visited.add((row, col))
             ind = []
             if inbound(row, col) and helper(row, col):
