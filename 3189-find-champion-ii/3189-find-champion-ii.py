@@ -4,7 +4,6 @@ class Solution:
         for caller, callie in edges:
             called[callie] += 1
         
-        min_count = float('inf')
         res = 0
         freq = 0
         for callie in range(n):
@@ -12,7 +11,6 @@ class Solution:
             if count == 0:
                 if freq:
                     return -1
-                # min_count = count
                 freq += 1
                 res = callie
         return res
