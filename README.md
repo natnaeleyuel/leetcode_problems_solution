@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1039-find-the-town-judge) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0207-course-schedule) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
