@@ -1,8 +1,8 @@
 class Solution:
     def numOfMinutes(self, n: int, headID: int, manager: List[int], informTime: List[int]) -> int:
-        manage_dict = defaultdict(list)
+        graph = defaultdict(list)
         for i in range(n):
-            manage_dict[manager[i]].append(i)
+            graph[manager[i]].append(i)
         
         result = 0
         curr = 0
@@ -12,9 +12,10 @@ class Solution:
             if curr > result:
                 result = curr
 
-            for manage_id in manage_dict[id]:
+            for manage_id in graph[id]:
                     dfs(manage_id, curr)
 
         dfs(headID, curr)
+        
         return result
             
