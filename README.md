@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
+| [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
+| [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
