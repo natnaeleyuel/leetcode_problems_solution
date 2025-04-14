@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0093-restore-ip-addresses) |
