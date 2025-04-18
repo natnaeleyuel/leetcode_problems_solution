@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
