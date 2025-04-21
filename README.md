@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2089-maximum-matrix-sum) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
