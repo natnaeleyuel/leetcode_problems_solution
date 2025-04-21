@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2249-count-the-hidden-sequences](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2249-count-the-hidden-sequences) |
 | [2465-shifting-letters-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2465-shifting-letters-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3643-zero-array-transformation-ii) |
