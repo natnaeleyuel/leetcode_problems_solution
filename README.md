@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0645-set-mismatch) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
 | [0661-image-smoother](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
