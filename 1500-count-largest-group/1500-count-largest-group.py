@@ -2,13 +2,16 @@ class Solution:
     def countLargestGroup(self, n: int) -> int:
         d = defaultdict(int)
         for num in range(1, n + 1):
-            tot = 0
+            digit_sum = 0
             k = num
             while k != 0:
-                tot += k % 10
+                digit_sum += k % 10
                 k = k // 10
-            d[tot] += 1
+            d[digit_sum] += 1
         
-        max_val = max(d.values())
-        count = Counter(d.values())
-        return count[max_val]
+        max_size = max(d.values())
+        count = 0
+        for size in d.values():
+            if size == max_size:
+                count += 1
+        return count
