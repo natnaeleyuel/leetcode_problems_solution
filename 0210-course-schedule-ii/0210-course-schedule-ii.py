@@ -1,22 +1,33 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
-        in_degree = [0] * numCourses
         for cr, pr, in prerequisites:
             graph[pr].append(cr)
-            in_degree[cr] += 1
-        
-        queue = deque([i for i in range(numCourses) if in_degree[i] == 0])
+
+        colors = [0] * numCourses
         result = []
-        while queue:
-            pr = queue.popleft()
-            result.append(pr)
-            for cr in graph[pr]:
-                in_degree[cr] -= 1
-                if in_degree[cr] == 0:
-                    queue.append(cr)
+        for node in range(numCourses):
+            if colors[node] != 0:
+                continue
+            if not self.topSort(node, result, graph, colors):
+                return []
+
+        return result[::-1]
+
+    def topSort(self, node, result, graph, colors):
+        if colors[node] == 1:
+            return False
         
-        return result if len(result) == numCourses else []
+        colors[node] = 1
+        for course in graph[node]:
+            if colors[course] == 2:
+                continue
+            if not self.topSort(course, result, graph, colors):
+                return False
+            
+        result.append(node)
+        colors[node] = 2
+        return True
 
 
 
