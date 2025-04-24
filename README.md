@@ -795,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0945-snakes-and-ladders) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
