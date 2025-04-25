@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1696-strange-printer-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1696-strange-printer-ii) |
 | [1720-crawler-log-folder](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1720-crawler-log-folder) |
 | [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
+| [1696-strange-printer-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1696-strange-printer-ii) |
 | [1876-map-of-highest-peak](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1696-strange-printer-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1696-strange-printer-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1696-strange-printer-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1696-strange-printer-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
