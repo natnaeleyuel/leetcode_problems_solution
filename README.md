@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0542-01-matrix) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
@@ -843,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
@@ -904,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
@@ -970,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0881-loud-and-rich) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -1016,4 +1023,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3548-find-the-count-of-good-integers) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
