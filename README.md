@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0969-number-of-recent-calls) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1184-car-pooling) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -898,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -954,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1285-balance-a-binary-search-tree) |
 ## Randomized
