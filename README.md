@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2737-row-with-maximum-ones](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3195-separate-black-and-white-balls) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
