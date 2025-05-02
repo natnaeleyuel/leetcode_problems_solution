@@ -1,44 +1,45 @@
+class UnionFind:
+    def __init__(self, size):
+        self.root = {i:i for i in range(size)}
+        self.rank = {i:0 for i in range(size)}
+        self.provinces = size
+        
+    def find(self, x):
+        
+        if x != self.root[x]:
+            self.root[x] = self.find(self.root[x])
+        
+        return self.root[x]
+		
+    def union(self, x, y):
+        rootx = self.find(x)
+        rooty = self.find(y)
+        
+        if rootx != rooty:
+            rank1 = self.rank[rootx]
+            rank2 = self.rank[rooty]
+            
+            if rank1 > rank2:
+                self.root[rooty] = rootx
+            elif rank2 > rank1:
+                self.root[rootx] = rooty
+            else:
+                self.root[rooty] = rootx
+                self.rank[rootx] += 1
+            self.provinces -= 1
+
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        # connected = defaultdict(list)
-        # n = len(isConnected)
-        # for i in range(n):
-        #     for j in range(n):
-        #         if i != j and isConnected[i][j] == 1:
-        #             connected[i + 1].append(j + 1)
-        
-        # visited = set()
-        # def dfs(node):
-        #     visited.add(node)
-        #     for neigh in connected[node]:
-        #         if neigh not in visited:
-        #             dfs(neigh)
-        #     return 1
-        
-        # res = 0
-        # for node in range(1, n + 1):
-        #     if node not in visited:
-        #         res += dfs(node)
-        # return res
-
-        connected = defaultdict(list)
         n = len(isConnected)
-        for i in range(n):
-            for j in range(n):
-                if i != j and isConnected[i][j] == 1:
-                    connected[i + 1].append(j + 1)
-        root = defaultdict(int)
-        def solve(node):
-            root[node] = 1
-            for nei in connected[node]:
-                if root[nei] == 0:
-                    solve(nei)
-            return 1
+        dsu = UnionFind(n)
 
-        provinces = 0
-        for node in range(1, n + 1):
-            if root[node] == 0:
-                provinces += solve(node)
+        for city1 in range(n):
+            for city2 in range(city1 + 1, n):
+                if isConnected[city1][city2]:
+                    dsu.union(city1, city2)
         
-        return provinces
+        return dsu.provinces
+
+        
+
         
