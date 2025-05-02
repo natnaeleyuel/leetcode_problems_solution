@@ -857,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0820-find-eventual-safe-states) |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
