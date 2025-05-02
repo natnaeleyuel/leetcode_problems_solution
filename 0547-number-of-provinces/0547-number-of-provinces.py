@@ -2,14 +2,14 @@ class UnionFind:
     def __init__(self, size):
         self.root = {i:i for i in range(size)}
         self.rank = {i:0 for i in range(size)}
-        self.provinces = size
         
     def find(self, x):
         
-        if x != self.root[x]:
-            self.root[x] = self.find(self.root[x])
+        while x != self.root[x]:
+            self.root[x] = self.root[self.root[x]]
+            x = self.root[x]
         
-        return self.root[x]
+        return x
 		
     def union(self, x, y):
         rootx = self.find(x)
@@ -26,7 +26,6 @@ class UnionFind:
             else:
                 self.root[rooty] = rootx
                 self.rank[rootx] += 1
-            self.provinces -= 1
 
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
@@ -37,9 +36,8 @@ class Solution:
             for city2 in range(city1 + 1, n):
                 if isConnected[city1][city2]:
                     dsu.union(city1, city2)
-        
-        return dsu.provinces
 
-        
+        provinces = set(dsu.find(i) for i in range(n))
+        return len(provinces)
 
         
