@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0999-regions-cut-by-slashes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1009-pancake-sorting](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1018-largest-perimeter-triangle) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0945-snakes-and-ladders) |
+| [0999-regions-cut-by-slashes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
 | [1696-strange-printer-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1696-strange-printer-ii) |
 | [1876-map-of-highest-peak](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1876-map-of-highest-peak) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
+| [0999-regions-cut-by-slashes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
+| [0999-regions-cut-by-slashes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -917,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
+| [0999-regions-cut-by-slashes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1026,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
+| [0999-regions-cut-by-slashes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0999-regions-cut-by-slashes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2793-count-the-number-of-complete-components) |
