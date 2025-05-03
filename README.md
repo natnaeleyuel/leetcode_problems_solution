@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1095-two-city-scheduling) |
 | [1168-duplicate-zeros](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1168-duplicate-zeros) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1018-largest-perimeter-triangle) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
