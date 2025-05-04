@@ -930,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1558-course-schedule-iv) |
