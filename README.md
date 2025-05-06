@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0567-permutation-in-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0721-accounts-merge) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0416-partition-equal-subset-sum) |
+| [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0868-push-dominoes) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
+| [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0547-number-of-provinces) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
+| [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0542-01-matrix) |
