@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0886-score-of-parentheses) |
 | [1032-satisfiability-of-equality-equations](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1170-shortest-common-supersequence) |
@@ -1060,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1706-min-cost-to-connect-all-points](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
