@@ -10,7 +10,7 @@ class DisjointUnion:
             self.root[x] = self.find(self.root[x])
         return self.root[x]
     
-    def merge(self, x, y):
+    def union(self, x, y):
         root_x = self.find(x)
         root_y = self.find(y)
         if root_x != root_y:
@@ -37,7 +37,7 @@ class Solution:
             for j in range(n):
                 cell_type = grid[i][j]
                 for di, dj in connection_rules[cell_type]:
-                    dsu.merge((i * 2, j * 2), (i * 2 + di, j * 2 + dj))
+                    dsu.union((i * 2, j * 2), (i * 2 + di, j * 2 + dj))
         
         start = (0, 0)
         end = (m * 2 - 2, n * 2 - 2)
