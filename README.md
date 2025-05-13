@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1873-longest-nice-substring) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0416-partition-equal-subset-sum) |
