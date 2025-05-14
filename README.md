@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0179-largest-number) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0338-counting-bits) |
