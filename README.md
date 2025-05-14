@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2621-find-xor-beauty-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2621-find-xor-beauty-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2665-minimum-time-to-repair-cars) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2610-closest-prime-numbers-in-range) |
+| [2621-find-xor-beauty-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2621-find-xor-beauty-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2998-count-symmetric-integers) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2621-find-xor-beauty-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2621-find-xor-beauty-of-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
