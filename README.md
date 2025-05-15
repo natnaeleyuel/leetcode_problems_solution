@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1876-map-of-highest-peak) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1961-maximum-ice-cream-bars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1962-single-threaded-cpu) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1009-pancake-sorting) |
 | [1168-duplicate-zeros](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1168-duplicate-zeros) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2551-apply-operations-to-an-array) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1558-course-schedule-iv) |
 | [1696-strange-printer-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1696-strange-printer-ii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1706-min-cost-to-connect-all-points) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1092,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1706-min-cost-to-connect-all-points) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2121-find-if-path-exists-in-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2793-count-the-number-of-complete-components) |
