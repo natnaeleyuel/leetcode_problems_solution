@@ -14,12 +14,13 @@ class DisjointUnion:
         if rootx != rooty:
             rankx = self.rank[rootx]
             ranky = self.rank[rooty]
-            if rankx >= ranky:
+            if rankx > ranky:
                 self.root[rooty] = rootx
-                self.rank[rootx] += self.rank[rooty]
             elif rankx < ranky:
                 self.root[rootx] = rooty
-                self.rank[rooty] += self.rank[rootx]
+            else:
+                self.root[rooty] = rootx
+                self.rank[rootx] += 1
 
 class Solution:
     def distanceLimitedPathsExist(self, n: int, edgeList: List[List[int]], queries: List[List[int]]) -> List[bool]:
