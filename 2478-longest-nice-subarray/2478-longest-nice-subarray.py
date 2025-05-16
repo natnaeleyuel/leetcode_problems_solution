@@ -1,15 +1,15 @@
 class Solution:
     def longestNiceSubarray(self, nums: List[int]) -> int:
-        left = 0
+        l = 0
         result = 0
-        temp = 0
-        for i in range(len(nums)):
-            num = nums[i]
-            while temp & num:
-                temp ^= nums[left]
-                left += 1
-            result = max(result, i - left + 1)
-            temp |= num
+        curr = 0
+        for r in range(len(nums)):
+            num = nums[r]
+            while curr & num:
+                curr ^= nums[l]
+                l += 1
+            result = max(result, r - l + 1)
+            curr |= num
         return result
                 
             
