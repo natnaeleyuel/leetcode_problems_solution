@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2621-find-xor-beauty-of-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -1171,4 +1173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1706-min-cost-to-connect-all-points) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
