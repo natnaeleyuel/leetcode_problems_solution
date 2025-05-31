@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1018-largest-perimeter-triangle) |
+| [1022-unique-paths-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1022-unique-paths-iii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1039-find-the-town-judge) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0999-regions-cut-by-slashes) |
+| [1022-unique-paths-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1696-strange-printer-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1696-strange-printer-ii) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0093-restore-ip-addresses) |
 | [0800-letter-case-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0800-letter-case-permutation) |
+| [1022-unique-paths-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0800-letter-case-permutation) |
+| [1022-unique-paths-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1873-longest-nice-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
