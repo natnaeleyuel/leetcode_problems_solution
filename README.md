@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0797-rabbits-in-forest) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
