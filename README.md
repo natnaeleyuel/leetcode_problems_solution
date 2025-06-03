@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1839-decode-xored-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1839-decode-xored-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1435-xor-queries-of-a-subarray) |
+| [1839-decode-xored-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1839-decode-xored-array) |
 | [1873-longest-nice-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2308-divide-array-into-equal-pairs) |
