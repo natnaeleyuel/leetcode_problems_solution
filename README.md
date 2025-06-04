@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2509-minimize-xor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3055-maximum-odd-binary-number) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2478-longest-nice-subarray) |
+| [2509-minimize-xor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2621-find-xor-beauty-of-array) |
