@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3483-alternating-groups-ii) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3483-alternating-groups-ii) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
