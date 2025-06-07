@@ -5,8 +5,7 @@ class Solution:
         m = len(cardPoints) - k
         for i in range(m):
             cur_sum += cardPoints[i]
-        min_sum = cur_sum
-        
+        min_sum = cur_sum   
 
         for right in range(m, len(cardPoints)): 
             cur_sum = cur_sum + cardPoints[right] - cardPoints[left]
