@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2665-minimum-time-to-repair-cars) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2681-put-marbles-in-bags](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3055-maximum-odd-binary-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3447-clear-digits) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3637-count-number-of-balanced-permutations](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
