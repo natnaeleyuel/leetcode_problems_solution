@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
+| [0795-k-th-symbol-in-grammar](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0645-set-mismatch) |
+| [0795-k-th-symbol-in-grammar](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1022-unique-paths-iii) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2050-count-good-numbers) |
