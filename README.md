@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1500-count-largest-group) |
 | [1873-longest-nice-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1873-longest-nice-substring) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2044-number-of-wonderful-substrings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1873-longest-nice-substring) |
 | [1970-sorting-the-sentence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2044-number-of-wonderful-substrings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2107-find-unique-binary-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2044-number-of-wonderful-substrings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2249-count-the-hidden-sequences](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2465-shifting-letters-ii) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1839-decode-xored-array) |
 | [1873-longest-nice-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2044-number-of-wonderful-substrings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2044-number-of-wonderful-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2509-minimize-xor) |
