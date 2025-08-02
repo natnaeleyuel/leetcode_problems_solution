@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0047-permutations-ii) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0088-merge-sorted-array) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
@@ -1102,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0496-next-greater-element-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3001-apply-operations-to-maximize-score) |
