@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3790-fruits-into-baskets-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2434-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3790-fruits-into-baskets-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1207,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-create-sorted-array-through-instructions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3790-fruits-into-baskets-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Quickselect
 |  |
 | ------- |
