@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0826-soup-servings) |
 | [1018-largest-perimeter-triangle](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
@@ -1261,4 +1263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0014-longest-common-prefix) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
