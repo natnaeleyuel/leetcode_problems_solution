@@ -1,14 +1,21 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        s = sum(nums)
-        l = s // 2
-        if s % 2 != 0:
+        if not nums or len(nums) < 2:
             return False
-        dp = [True] + [False] * l
-        for x in nums:
-            for i in range(l, x - 1, -1): 
-                dp[i] |= dp[i - x]
-
-            if dp[l]: return True
-        return dp[l]
-        
+        target, mod = divmod(sum(nums), 2)
+        n = len(nums)
+        dp = [False] * (target+1)
+        dp[0] = True
+        if mod != 0:
+            return False
+        if target in nums:
+            return True
+        if max(nums) > target:
+            return False
+        for i in range(n):
+            curr = nums[i]
+            for j in range(target, curr-1, -1):
+                dp[j] = dp[j] or dp[j-curr]
+            if dp[target]:
+                return True
+        return dp[target]
