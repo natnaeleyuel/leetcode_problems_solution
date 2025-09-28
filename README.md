@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1236-n-th-tribonacci-number) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
