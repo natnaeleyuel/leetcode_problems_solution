@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0494-target-sum) |
