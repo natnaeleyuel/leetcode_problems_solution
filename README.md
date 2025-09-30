@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0523-continuous-subarray-sum) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0093-restore-ip-addresses) |
+| [0494-target-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
