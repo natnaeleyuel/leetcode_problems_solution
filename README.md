@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3643-zero-array-transformation-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Design
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
