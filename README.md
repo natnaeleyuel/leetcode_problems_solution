@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0797-rabbits-in-forest) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0868-push-dominoes) |
