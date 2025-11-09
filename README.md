@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0139-word-break) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
