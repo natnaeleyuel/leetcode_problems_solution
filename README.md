@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0074-search-a-2d-matrix) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0304-range-sum-query-2d-immutable) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
