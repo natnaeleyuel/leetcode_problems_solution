@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1435-xor-queries-of-a-subarray) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1250-longest-common-subsequence) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
