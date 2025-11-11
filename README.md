@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2089-maximum-matrix-sum) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2107-find-unique-binary-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2610-closest-prime-numbers-in-range) |
