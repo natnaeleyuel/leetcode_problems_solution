@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2551-apply-operations-to-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2448-count-number-of-bad-pairs) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2621-find-xor-beauty-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2649-count-total-number-of-colored-cells) |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0204-count-primes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search Tree
