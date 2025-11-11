@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0456-132-pattern) |
+| [0474-ones-and-zeroes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0496-next-greater-element-i) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0567-permutation-in-string](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0680-valid-palindrome-ii) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0542-01-matrix) |
