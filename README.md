@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2737-row-with-maximum-ones) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2915-count-of-interesting-subarrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2621-find-xor-beauty-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2649-count-total-number-of-colored-cells) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2610-closest-prime-numbers-in-range) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search Tree
 |  |
