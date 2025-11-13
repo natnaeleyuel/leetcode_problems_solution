@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1694-make-sum-divisible-by-p](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1696-strange-printer-ii](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1696-strange-printer-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1500-count-largest-group) |
+| [1694-make-sum-divisible-by-p](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1873-longest-nice-substring](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1873-longest-nice-substring) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2044-number-of-wonderful-substrings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2044-number-of-wonderful-substrings) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2044-number-of-wonderful-substrings](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/2044-number-of-wonderful-substrings) |
