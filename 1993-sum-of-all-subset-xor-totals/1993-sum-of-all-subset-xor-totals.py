@@ -1,12 +1,8 @@
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
-        def backtrack(nums, ind, curr):
-            if ind == len(nums):
-                return curr
-            
-            xor1 = backtrack(nums, ind + 1, curr ^ nums[ind])
-            xor2 = backtrack(nums, ind + 1, curr)
-
-            return xor1 + xor2
+        res = 0
+        n = len(nums)
+        for num in nums:
+            res |= num
         
-        return backtrack(nums, 0, 0)
+        return res * 2 ** (n - 1)
