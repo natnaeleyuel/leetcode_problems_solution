@@ -1,6 +1,6 @@
 class Solution:
     def minZeroArray(self, nums: List[int], queries: List[List[int]]) -> int:
-        def check(nums, queries, k):
+        def check(k):
             n = len(nums)
             tot = 0
             diff = [0] * (n + 1)
@@ -17,13 +17,12 @@ class Solution:
         n = len(nums)
         l = 0
         r = len(queries)
-        if not check(nums, queries, r):
+        if not check(r):
             return -1
         while l <= r:
             m = l + (r - l) // 2
-            if check(nums, queries, m):
+            if check(m):
                 r = m - 1
             else:
                 l = m + 1
         return l
-
