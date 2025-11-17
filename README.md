@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/1603-running-sum-of-1d-array) |
