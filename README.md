@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/natnaeleyuel/leetcode_probems_solution/tree/master/0733-flood-fill) |
