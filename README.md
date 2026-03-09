@@ -1,4 +1,37 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# leetcode_problems_solution
+
+A structured collection of Python solutions to LeetCode problems, covering a broad spectrum of algorithms and data structures. The repository is organized problem-by-problem, making it easy to review approaches, revisit solved challenges, and strengthen coding interview readiness.
+
+## Contents
+
+- **`0002-add-two-numbers/`** to **`3863-power-grid-maintenance/`**: Individual problem folders containing Python solutions.
+- **Topic coverage**: Problems span arrays, strings, linked lists, trees, graphs, heaps, dynamic programming, binary search, backtracking, union find, and more.
+- **`README.md`**: Repository overview and problem-topic index generated through LeetHub.
+
+## Features
+
+- Large and growing set of LeetCode solutions in **Python**.
+- Organized by problem number and title for quick navigation.
+- Covers beginner, intermediate, and advanced algorithmic patterns.
+- Includes topic-based indexing such as **Array**, **String**, **Dynamic Programming**, **Graph**, **Tree**, and **Binary Search**.
+- Built with **LeetHub v2**, helping keep solutions synced and structured.
+
+## Usage
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/natnaeleyuel/leetcode_problems_solution.git
+   ```
+2. Open any problem directory to inspect the Python solution.
+3. Use the repository as a reference for:
+   - interview preparation
+   - algorithm practice
+   - revision by topic
+   - comparing different problem-solving patterns
+
+---
+
+*Created by [natnaeleyuel](https://github.com/natnaeleyuel)* using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
